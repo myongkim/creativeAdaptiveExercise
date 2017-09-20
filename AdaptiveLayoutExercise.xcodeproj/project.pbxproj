@@ -14,6 +14,7 @@
 		6A0316F31F72FEF3007DF705 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A0316F11F72FEF3007DF705 /* LaunchScreen.storyboard */; };
 		6A0316FB1F73064F007DF705 /* tim-mossholder-244857.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A0316FA1F73064F007DF705 /* tim-mossholder-244857.jpg */; };
 		6A0316FD1F730652007DF705 /* rodion-kutsaev-82627.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A0316FC1F730652007DF705 /* rodion-kutsaev-82627.jpg */; };
+		6A0316FF1F732742007DF705 /* number_one.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6A0316FE1F732742007DF705 /* number_one.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6A0316F41F72FEF3007DF705 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6A0316FA1F73064F007DF705 /* tim-mossholder-244857.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "tim-mossholder-244857.jpg"; path = "../tim-mossholder-244857.jpg"; sourceTree = "<group>"; };
 		6A0316FC1F730652007DF705 /* rodion-kutsaev-82627.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "rodion-kutsaev-82627.jpg"; path = "../rodion-kutsaev-82627.jpg"; sourceTree = "<group>"; };
+		6A0316FE1F732742007DF705 /* number_one.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = number_one.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 			children = (
 				6A0316E71F72FEF3007DF705 /* AdaptiveLayoutExercise */,
 				6A0316E61F72FEF3007DF705 /* Products */,
+				6A0316FE1F732742007DF705 /* number_one.jpeg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A0316F31F72FEF3007DF705 /* LaunchScreen.storyboard in Resources */,
+				6A0316FF1F732742007DF705 /* number_one.jpeg in Resources */,
 				6A0316F01F72FEF3007DF705 /* Assets.xcassets in Resources */,
 				6A0316FD1F730652007DF705 /* rodion-kutsaev-82627.jpg in Resources */,
 				6A0316FB1F73064F007DF705 /* tim-mossholder-244857.jpg in Resources */,
