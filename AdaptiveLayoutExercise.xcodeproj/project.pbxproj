@@ -12,6 +12,8 @@
 		6A0316EE1F72FEF3007DF705 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A0316EC1F72FEF3007DF705 /* Main.storyboard */; };
 		6A0316F01F72FEF3007DF705 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A0316EF1F72FEF3007DF705 /* Assets.xcassets */; };
 		6A0316F31F72FEF3007DF705 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A0316F11F72FEF3007DF705 /* LaunchScreen.storyboard */; };
+		6A0316FB1F73064F007DF705 /* tim-mossholder-244857.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A0316FA1F73064F007DF705 /* tim-mossholder-244857.jpg */; };
+		6A0316FD1F730652007DF705 /* rodion-kutsaev-82627.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A0316FC1F730652007DF705 /* rodion-kutsaev-82627.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		6A0316EF1F72FEF3007DF705 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6A0316F21F72FEF3007DF705 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6A0316F41F72FEF3007DF705 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6A0316FA1F73064F007DF705 /* tim-mossholder-244857.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "tim-mossholder-244857.jpg"; path = "../tim-mossholder-244857.jpg"; sourceTree = "<group>"; };
+		6A0316FC1F730652007DF705 /* rodion-kutsaev-82627.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "rodion-kutsaev-82627.jpg"; path = "../rodion-kutsaev-82627.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +61,9 @@
 				6A0316E81F72FEF3007DF705 /* AppDelegate.swift */,
 				6A0316EA1F72FEF3007DF705 /* ViewController.swift */,
 				6A0316EC1F72FEF3007DF705 /* Main.storyboard */,
+				6A0316FA1F73064F007DF705 /* tim-mossholder-244857.jpg */,
 				6A0316EF1F72FEF3007DF705 /* Assets.xcassets */,
+				6A0316FC1F730652007DF705 /* rodion-kutsaev-82627.jpg */,
 				6A0316F11F72FEF3007DF705 /* LaunchScreen.storyboard */,
 				6A0316F41F72FEF3007DF705 /* Info.plist */,
 			);
@@ -125,6 +131,8 @@
 			files = (
 				6A0316F31F72FEF3007DF705 /* LaunchScreen.storyboard in Resources */,
 				6A0316F01F72FEF3007DF705 /* Assets.xcassets in Resources */,
+				6A0316FD1F730652007DF705 /* rodion-kutsaev-82627.jpg in Resources */,
+				6A0316FB1F73064F007DF705 /* tim-mossholder-244857.jpg in Resources */,
 				6A0316EE1F72FEF3007DF705 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
