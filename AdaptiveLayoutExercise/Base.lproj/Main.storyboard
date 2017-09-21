@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
-    <device id="ipad9_7" orientation="portrait">
+    <device id="retina5_5" orientation="landscape">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
@@ -19,17 +19,17 @@
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                        <rect key="frame" x="0.0" y="0.0" width="736" height="414"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iphone_layout_image" translatesAutoresizingMaskIntoConstraints="NO" id="Dml-iQ-lzg">
-                                <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                                <rect key="frame" x="0.0" y="0.0" width="736" height="414"/>
                             </imageView>
                             <stackView opaque="NO" contentMode="center" axis="vertical" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="lpZ-mG-ppF">
-                                <rect key="frame" x="0.0" y="133" width="768" height="60"/>
+                                <rect key="frame" x="0.0" y="121.00000000000001" width="736" height="80.333333333333357"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;Mistakes are proof that you are trying.&quot;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6v2-zN-ab8">
-                                        <rect key="frame" x="0.0" y="0.0" width="768" height="0.0"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="736" height="20.333333333333343"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
@@ -38,7 +38,7 @@
                                         </variation>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;Hardships often prepare ordinary people for an extraordinary destiny.&quot; —C.S. Lewis" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="08z-W0-af8">
-                                        <rect key="frame" x="0.0" y="15" width="768" height="0.0"/>
+                                        <rect key="frame" x="0.0" y="35.333333333333343" width="736" height="0.0"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
@@ -47,7 +47,7 @@
                                         </variation>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;Your value doesn't decrease based on someone's inability to see your worth.&quot;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gjp-W3-c6a">
-                                        <rect key="frame" x="0.0" y="30" width="768" height="0.0"/>
+                                        <rect key="frame" x="0.0" y="50.333333333333343" width="736" height="0.0"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
@@ -56,7 +56,7 @@
                                         </variation>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;Remember, today is the tomorrow you worried about yesterday.&quot; —Dale Carnegie" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9R3-Tf-u0K">
-                                        <rect key="frame" x="0.0" y="45" width="768" height="0.0"/>
+                                        <rect key="frame" x="0.0" y="65.333333333333343" width="736" height="0.0"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
@@ -65,7 +65,7 @@
                                         </variation>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;Some days there won't be a song in your heart. Sing anyway.&quot; —Emory Austin" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0jG-2C-UMw">
-                                        <rect key="frame" x="0.0" y="60" width="768" height="0.0"/>
+                                        <rect key="frame" x="0.0" y="80.333333333333343" width="736" height="0.0"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
@@ -76,7 +76,7 @@
                                 </subviews>
                             </stackView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Keep Coding! You Can Do It!!!!!!!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Iza-2u-mkx">
-                                <rect key="frame" x="266" y="983" width="482" height="41"/>
+                                <rect key="frame" x="470.66666666666674" y="393.66666666666674" width="245.33333333333326" height="20.333333333333314"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" red="0.95344705031287791" green="1" blue="0.17044513015968854" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
@@ -85,7 +85,7 @@
                                 </variation>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Life Changing Words" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gz1-01-dKc">
-                                <rect key="frame" x="20" y="40" width="728" height="55"/>
+                                <rect key="frame" x="20" y="40" width="696" height="43"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="36"/>
                                 <color key="textColor" red="1" green="0.87256659157922334" blue="0.13250042208267454" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
@@ -94,7 +94,7 @@
                                 </variation>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="number_one.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="UE6-Er-niO">
-                                <rect key="frame" x="508" y="793" width="240" height="160"/>
+                                <rect key="frame" x="407" y="164.5" width="240" height="160"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" red="0.8731591615278238" green="1" blue="0.88971838126789193" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -114,6 +114,11 @@
                             <constraint firstItem="Dml-iQ-lzg" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="zQo-Rk-yJc"/>
                             <constraint firstItem="lpZ-mG-ppF" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="zjQ-a3-PHL"/>
                         </constraints>
+                        <variation key="heightClass=compact-widthClass=compact">
+                            <mask key="subviews">
+                                <exclude reference="UE6-Er-niO"/>
+                            </mask>
+                        </variation>
                         <variation key="heightClass=compact-widthClass=regular">
                             <mask key="subviews">
                                 <exclude reference="UE6-Er-niO"/>
@@ -132,7 +137,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="iphone_layout_image" width="3000" height="2000"/>
+        <image name="iphone_layout_image" width="3600" height="2400"/>
         <image name="number_one.jpeg" width="240" height="160"/>
     </resources>
 </document>
